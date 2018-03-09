@@ -1,0 +1,21 @@
+/* stylesheet*/
+
+footer{
+	padding:2em 0;
+	margin:3em 0;
+	border-top:1px solid black;
+	color:white;
+	text-align:center;
+	background-color:gray;
+	}
+
+.glyphicon{
+	color:blue;
+	
+}
+
+.pull-right.img-responsive{
+	
+	margin:0 01em 1em;
+}
+
